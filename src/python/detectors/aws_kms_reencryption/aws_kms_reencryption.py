@@ -16,7 +16,7 @@ def kms_reencrypt_noncompliant():
     )
     return response
 # {/fact}
-
+#fun fact
 
 # {fact rule=aws-kms-reencryption@v1.0 defects=0}
 def kms_reencrypt_compliant():
